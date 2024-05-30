@@ -44,9 +44,7 @@ public class main_1302210096{
         Scanner write = new Scanner(System.in);
         
         System.out.println("Masukan warna lingkaran: ");
-        String warna = write.nextLine();
         System.out.println("Masukan warna lingkaran: ");
-        String warna = write.nextLine();
         System.out.println("Masukan warna lingkaran: ");
         String warna = write.nextLine();
         
