@@ -20,8 +20,6 @@ class Lingkaran {
     
     public void printWarna_1302210096(){
         System.out.println("Warna objek lingkaran adalah " + warna);
-        System.out.println("Warna objek lingkaran adalah " + warna);
-        System.out.println("Warna objek lingkaran adalah " + warna);
     }
     
     public double getKeliling() {
@@ -45,6 +43,10 @@ public class main_1302210096{
     public static void main(String[] arguments){
         Scanner write = new Scanner(System.in);
         
+        System.out.println("Masukan warna lingkaran: ");
+        String warna = write.nextLine();
+        System.out.println("Masukan warna lingkaran: ");
+        String warna = write.nextLine();
         System.out.println("Masukan warna lingkaran: ");
         String warna = write.nextLine();
         
