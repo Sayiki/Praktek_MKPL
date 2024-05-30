@@ -46,6 +46,8 @@ public class main_1302210096{
         System.out.println("Masukan warna lingkaran: ");
         System.out.println("Masukan warna lingkaran: ");
         System.out.println("Masukan warna lingkaran: ");
+        System.out.println("Masukan warna lingkaran: ");
+        System.out.println("Masukan warna lingkaran: ");
         String warna = write.nextLine();
         
         System.out.println("Masukan jari-jari lingkaran: ");
