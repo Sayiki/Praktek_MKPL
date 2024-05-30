@@ -39,7 +39,7 @@ public class LingkaranTest {
         // Redirect output ke ByteArrayOutputStream untuk testing
         ByteArrayOutputStream outContent = new ByteArrayOutputStream();
         System.setOut(new PrintStream(outContent));
-
+ 
         Lingkaran lingkaran = new Lingkaran("Kuning", 2.0);
         lingkaran.printWarna_1302210096();
         lingkaran.printKeliling_1302210096();
